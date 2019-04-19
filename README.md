@@ -14,9 +14,9 @@ Parameter of SA | Range
 Initial temperature (𝜏0) | Between 1 and 20
 Final temperature (𝜏𝑓) | Between 0.1 and 0.5
 The number of neighbours to visit (𝑟𝜏) | An integer value between 10 and 500
-Temperature control function (TCF) | Either option 1 or 2, which are exponential multiplicative cooling or non-monotonic scheme respectively
+Temperature control function (TCF) | Either option 1 or 2, which is exponential multiplicative cooling or non-monotonic scheme respectively
 Cooling rate (𝛼) | Between 0.8 and 0.99
-Acceptance probability function (APF) | Either function 1 or 2, which are Metropolis criterion or Barker function respectively
+Acceptance probability function (APF) | Either function 1 or 2, which is Metropolis criterion or Barker function respectively
 
 
 
